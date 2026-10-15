@@ -14,6 +14,7 @@ I build web apps, systems tools, CUDA kernels, and AI inference engines. If ther
 ### Currently
 
 Grid Infrastructure.
+
 ---
 
 *You don't learn the future by consuming it. You build it.*
